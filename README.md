@@ -4,4 +4,4 @@ VAM05 keyboard
 KAM keysets
 ![Vam05-render1](https://github.com/user-attachments/assets/da0c3d72-9f3d-4b39-a261-96fde4c326aa)
 BLE PCB
-![Uploading Vamos-PCB.png…]()
+![Vamos-PCB](https://github.com/user-attachments/assets/1c101c14-25ae-4fa8-9ea5-07a872c52f03)
