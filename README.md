@@ -1,8 +1,10 @@
 VAM05 keyboard
 ![Vam05-1](https://github.com/user-attachments/assets/fcd82e2c-0d48-4d0b-b354-57c74ad60753)
-![vamcase01](https://github.com/user-attachments/assets/3c53d9d1-96f8-4ebc-a1f3-36e965504bf7)
-![vamcase02](https://github.com/user-attachments/assets/36fe3d72-ae55-4fca-8053-dace41d918de)
-<img width="1108" alt="vamcase03" src="https://github.com/user-attachments/assets/516aa3b8-b4a7-4d90-a4d3-36fe0c190892" />
+![vamcase01](https://github.com/user-attachments/assets/e84aa84c-5e26-49ea-ba3d-fc436b8ed027)
+![untitlsadwwadsed](https://github.com/user-attachments/assets/5e80c002-ec0d-4e9c-9293-618a30856bbf)
+<img width="1171" alt="Screenshot 2025-04-09 at 00 28 51" src="https://github.com/user-attachments/assets/f629f73f-1c11-4a58-b1ea-208f906bf656" />
+<img width="1043" alt="Screenshot 2025-04-09 at 00 28 24" src="https://github.com/user-attachments/assets/db402ffa-7544-4d3b-b92e-2be25632d2e7" />
+<img width="1198" alt="Screenshot 2025-04-09 at 00 28 13" src="https://github.com/user-attachments/assets/e445f3a1-281d-450a-a93f-e4d0c3e7b2c6" />
 
 BLE PCB
 ![Vamos-PCB](https://github.com/user-attachments/assets/1c101c14-25ae-4fa8-9ea5-07a872c52f03)
