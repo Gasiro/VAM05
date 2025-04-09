@@ -1,4 +1,4 @@
-![temp03](https://github.com/user-attachments/assets/0217b515-d20d-4515-aa6b-824c71f507fd)![temp02](https://github.com/user-attachments/assets/b9d10246-da3c-4413-beaa-614c2f48a973)VAM05 keyboard
+VAM05 keyboard
 ![Vam05-1](https://github.com/user-attachments/assets/fcd82e2c-0d48-4d0b-b354-57c74ad60753)
 ![temp01](https://github.com/user-attachments/assets/2bd18640-b1bb-4a8d-b51d-e879d966f55b)
 ![temp02](https://github.com/user-attachments/assets/71c1524f-0ac5-4b88-ba92-bf0bba417beb)
