@@ -7,4 +7,4 @@
 <img width="1198" alt="Screenshot 2025-04-09 at 00 28 13" src="https://github.com/user-attachments/assets/e445f3a1-281d-450a-a93f-e4d0c3e7b2c6" />
 
 BLE PCB
-![Vamos-PCB](https://github.com/user-attachments/assets/1c101c14-25ae-4fa8-9ea5-07a872c52f03)
+![M1nitruckPCB](https://github.com/user-attachments/assets/ba2b6e9f-e94a-4dd9-ad06-bfb309733221)
