@@ -11,5 +11,3 @@ VAM05 keyboard
 
 BLE PCB
 ![M1nitruckPCB](https://github.com/user-attachments/assets/ba2b6e9f-e94a-4dd9-ad06-bfb309733221)
-<img width="1044" alt="JLC_Front" src="https://github.com/user-attachments/assets/befec6d9-d18c-486a-b936-8e4dd237a277" />
-<img width="1044" alt="JLC_Back" src="https://github.com/user-attachments/assets/a5835452-4ff5-487d-997f-fd9029c20ebe" />
