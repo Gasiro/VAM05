@@ -3,6 +3,7 @@ VAM05 keyboard
 ![DSC_0001-9-65685-scaled](https://github.com/user-attachments/assets/1d008564-a652-4259-8105-f2f83fa5281a)
 ![CCC1](https://github.com/user-attachments/assets/64db1936-0225-4a75-ba63-46c4045e9729)
 ![CCC2](https://github.com/user-attachments/assets/0fa6f59f-3934-443f-853b-fd58100480dd)
+![CCC3](https://github.com/user-attachments/assets/b7c5e86f-66f4-43c7-b093-38dc2c7025ca)
 ![temp02](https://github.com/user-attachments/assets/71c1524f-0ac5-4b88-ba92-bf0bba417beb)
 ![temp03](https://github.com/user-attachments/assets/e56de5ec-e368-4b88-9790-f4ff8149d0c3)
 
