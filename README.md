@@ -20,6 +20,5 @@ Case for Vam05
 <img width="1214" alt="Screenshot 2025-04-13 at 17 44 25" src="https://github.com/user-attachments/assets/c4248766-e111-4f2b-b26e-3d2e9693577b" />
 <img width="1233" alt="Screenshot 2025-04-13 at 17 44 56" src="https://github.com/user-attachments/assets/bcf5f2e1-f674-4e67-911c-cd08fd3d65ee" />
 <img width="1212" alt="Screenshot 2025-04-13 at 17 45 51" src="https://github.com/user-attachments/assets/1624c532-b242-422f-8671-2bff79f89fc1" />
-![M1nitruckPCB](https://github.com/user-attachments/assets/ba2b6e9f-e94a-4dd9-ad06-bfb309733221)
 
 
