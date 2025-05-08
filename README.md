@@ -4,6 +4,7 @@ BLE PCB
 ![M1nitruckPCB](https://github.com/user-attachments/assets/ba2b6e9f-e94a-4dd9-ad06-bfb309733221)
 ![DO1050591](https://github.com/user-attachments/assets/a847e213-82e7-4e05-80a8-6a4e7c226822)
 ![DO1050590](https://github.com/user-attachments/assets/90faf69d-e296-4b16-a9a9-82fabb80c278)
+Installing the HAC-006 Battery on the Vam05
 [![Watch the video](https://img.youtube.com/vi/nf2Lfo7mWOo/0.jpg)](https://www.youtube.com/watch?v=nf2Lfo7mWOo)
 
 
