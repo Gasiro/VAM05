@@ -21,4 +21,6 @@ Case for Vam05
 <img width="1233" alt="Screenshot 2025-04-13 at 17 44 56" src="https://github.com/user-attachments/assets/bcf5f2e1-f674-4e67-911c-cd08fd3d65ee" />
 <img width="1212" alt="Screenshot 2025-04-13 at 17 45 51" src="https://github.com/user-attachments/assets/1624c532-b242-422f-8671-2bff79f89fc1" />
 
+Keymap
+![keymap](https://github.com/user-attachments/assets/eae2b62c-9242-449d-a5a0-7853587d8611)
 
