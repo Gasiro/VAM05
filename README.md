@@ -24,8 +24,6 @@ Installing the HAC-006 Battery on the Vam05
 12.  (optional kb feets) [M3x10 Set Screw](https://www.aliexpress.com/item/1005007437626242.html?spm=a2g0o.productlist.main.22.4c19w4v2w4v2g4&aem_p4p_detail=20250608025039873944920309600003615029&algo_pvid=44a50d37-4160-4f56-9012-2e59d60d9047&algo_exp_id=44a50d37-4160-4f56-9012-2e59d60d9047-21&pdp_ext_f=%7B%22order%22%3A%2232%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21GBP%211.31%210.84%21%21%2112.38%217.92%21%40211b876e17493762390884258e6b68%2112000040753488267%21sea%21UK%216343852343%21X&curPageLogUid=ccn7W1sXQhma&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=20250608025039873944920309600003615029_6) x2
 13.  (optional kb feets) [M3x3.4-OD3.4 Hot Inserts](https://www.aliexpress.com/item/1005006356290627.html?spm=a2g0o.productlist.main.22.1e0c1e17ovnVzX&aem_p4p_detail=202506080256245446359631005480003144335&algo_pvid=7fe0e115-bddb-432a-8fcb-87697665dff4&algo_exp_id=7fe0e115-bddb-432a-8fcb-87697665dff4-21&pdp_ext_f=%7B%22order%22%3A%2258%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21GBP%213.36%213.36%21%21%2131.78%2131.78%21%40211b815c17493765844335926ef92f%2112000036872725928%21sea%21UK%216343852343%21X&curPageLogUid=gBrvpEZXizcT&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202506080256245446359631005480003144335_6) x4
 
-![hana](https://github.com/user-attachments/assets/98f0eb48-7472-43f8-834d-5b19ace1df45)
-![hana_01](https://github.com/user-attachments/assets/272f1091-af54-493d-a2d2-629bd7025444)
 ![CCC1](https://github.com/user-attachments/assets/64db1936-0225-4a75-ba63-46c4045e9729)
 ![CCC2](https://github.com/user-attachments/assets/0fa6f59f-3934-443f-853b-fd58100480dd)
 ![vam05pic](https://github.com/user-attachments/assets/01ee45e1-2576-44ff-9b64-b35205de7567)
