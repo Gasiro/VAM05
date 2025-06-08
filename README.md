@@ -10,7 +10,7 @@ Installing the HAC-006 Battery on the Vam05
 ### Keymap
 ![keymap](https://github.com/user-attachments/assets/eae2b62c-9242-449d-a5a0-7853587d8611)
 
-# Vam05 Case
+# 1.Vam05 Keyboard Case
 1. (optional)[2mmx11.5 light pipe](https://www.aliexpress.com/item/1005002291462567.html?pdp_npi=4%40dis%21GBP%21%EF%BF%A12.51%21%EF%BF%A12.51%21%21%213.31%213.31%21%40210390b817493736067266777e8e0f%2112000019941306348%21sh%21UK%216343852343%21X&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007586481351.1005002291462567) x3 
 2. [M3x10 screw](https://www.aliexpress.com/item/1005004179534786.html?spm=a2g0o.productlist.main.10.eea5493f4uoFC4&aem_p4p_detail=202506080202543719277579238900003490342&algo_pvid=32611623-4362-4cad-b20e-9a435ddd85e5&algo_exp_id=32611623-4362-4cad-b20e-9a435ddd85e5-9&pdp_ext_f=%7B%22order%22%3A%22456%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21GBP%211.24%210.81%21%21%211.63%211.06%21%402103864c17493733743022032e7a1c%2112000028300654706%21sea%21UK%216343852343%21X&curPageLogUid=oarhR68vySRO&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202506080202543719277579238900003490342_3) x2
 3. [M3x14 screw](https://www.aliexpress.com/item/1005004179534786.html?spm=a2g0o.productlist.main.10.eea5493f4uoFC4&aem_p4p_detail=202506080202543719277579238900003490342&algo_pvid=32611623-4362-4cad-b20e-9a435ddd85e5&algo_exp_id=32611623-4362-4cad-b20e-9a435ddd85e5-9&pdp_ext_f=%7B%22order%22%3A%22456%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21GBP%211.24%210.81%21%21%211.63%211.06%21%402103864c17493733743022032e7a1c%2112000028300654706%21sea%21UK%216343852343%21X&curPageLogUid=oarhR68vySRO&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202506080202543719277579238900003490342_3) x2
@@ -30,6 +30,6 @@ Installing the HAC-006 Battery on the Vam05
 ![CCC2](https://github.com/user-attachments/assets/0fa6f59f-3934-443f-853b-fd58100480dd)
 ![vam05pic](https://github.com/user-attachments/assets/01ee45e1-2576-44ff-9b64-b35205de7567)
 
-# _P4W Case
+# 1._P4W Keyboard Case
 ![p4w](https://github.com/user-attachments/assets/e9e42f7d-7e36-42e9-8eb2-f778de7d3805)
 ![p4wcase](https://github.com/user-attachments/assets/012ec113-af00-4234-afff-6ddd71f523d8)
