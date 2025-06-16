@@ -1,13 +1,11 @@
 # VAM05 keyboard
 ## ⚠️ This page is still under construction. Please do not use it for actual builds.
 
-Installing the HAC-006 Battery on the Vam05
-
-[![Watch the video](https://img.youtube.com/vi/nf2Lfo7mWOo/0.jpg)](https://www.youtube.com/watch?v=nf2Lfo7mWOo)
+[Installing the HAC-006 Battery on the Vam05](https://www.youtube.com/watch?v=nf2Lfo7mWOo)
 
 Vam05 typing test
 [![Watch the video](https://img.youtube.com/vi/Bp-iAUh05zQ/0.jpg)](https://www.youtube.com/watch?v=Bp-iAUh05zQ)
-
+![pic](https://github.com/user-attachments/assets/a5260453-17ae-480e-a42d-b2fab93b819a)
 
 ### BLE PCB
 ![DO1050590](https://github.com/user-attachments/assets/90faf69d-e296-4b16-a9a9-82fabb80c278)
@@ -32,7 +30,6 @@ Vam05 typing test
 
 ![CCC1](https://github.com/user-attachments/assets/64db1936-0225-4a75-ba63-46c4045e9729)
 ![CCC2](https://github.com/user-attachments/assets/0fa6f59f-3934-443f-853b-fd58100480dd)
-![pic](https://github.com/user-attachments/assets/a5260453-17ae-480e-a42d-b2fab93b819a)
 
 
 # 2._P4W Keyboard Case
