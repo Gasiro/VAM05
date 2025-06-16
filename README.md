@@ -5,6 +5,10 @@ Installing the HAC-006 Battery on the Vam05
 
 [![Watch the video](https://img.youtube.com/vi/nf2Lfo7mWOo/0.jpg)](https://www.youtube.com/watch?v=nf2Lfo7mWOo)
 
+Vam05 typing test
+[![Watch the video](https://img.youtube.com/vi/Bp-iAUh05zQ/0.jpg)](https://www.youtube.com/watch?v=Bp-iAUh05zQ)
+
+
 ### BLE PCB
 ![DO1050590](https://github.com/user-attachments/assets/90faf69d-e296-4b16-a9a9-82fabb80c278)
 
