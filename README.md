@@ -28,7 +28,8 @@ Installing the HAC-006 Battery on the Vam05
 
 ![CCC1](https://github.com/user-attachments/assets/64db1936-0225-4a75-ba63-46c4045e9729)
 ![CCC2](https://github.com/user-attachments/assets/0fa6f59f-3934-443f-853b-fd58100480dd)
-![vam05pic](https://github.com/user-attachments/assets/01ee45e1-2576-44ff-9b64-b35205de7567)
+![pic](https://github.com/user-attachments/assets/a5260453-17ae-480e-a42d-b2fab93b819a)
+
 
 # 2._P4W Keyboard Case
 ![p4w](https://github.com/user-attachments/assets/e9e42f7d-7e36-42e9-8eb2-f778de7d3805)
