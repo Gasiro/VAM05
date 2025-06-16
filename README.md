@@ -3,7 +3,7 @@
 
 [Installing the HAC-006 Battery on the Vam05](https://www.youtube.com/watch?v=nf2Lfo7mWOo)
 
-Vam05 typing test
+### Vam05 typing test
 [![Watch the video](https://img.youtube.com/vi/Bp-iAUh05zQ/0.jpg)](https://www.youtube.com/watch?v=Bp-iAUh05zQ)
 ![pic](https://github.com/user-attachments/assets/a5260453-17ae-480e-a42d-b2fab93b819a)
 
