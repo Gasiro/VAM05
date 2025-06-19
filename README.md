@@ -6,8 +6,6 @@
 
 ### Vam05 typing test
 [![Watch the video](https://img.youtube.com/vi/t32Cq-oB5yc/0.jpg)](https://www.youtube.com/watch?v=t32Cq-oB5yc)
-![DO1050618](https://github.com/user-attachments/assets/44120355-f1f7-40c0-8614-a2f3d970af45)
-![DO1050623](https://github.com/user-attachments/assets/86df2204-7359-4d11-93c1-492e237831e5)
 
 ### BLE PCB
 ![DO1050590](https://github.com/user-attachments/assets/90faf69d-e296-4b16-a9a9-82fabb80c278)
