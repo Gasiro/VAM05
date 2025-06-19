@@ -1,5 +1,6 @@
 # VAM05 keyboard
 ## ⚠️ This page is still under construction. Please do not use it for actual builds.
+![DO1050637](https://github.com/user-attachments/assets/fcf20ec7-d250-40b2-9dc2-8ceea85f7d7c)
 
 [Installing the HAC-006 Battery on the Vam05](https://www.youtube.com/watch?v=nf2Lfo7mWOo)
 
